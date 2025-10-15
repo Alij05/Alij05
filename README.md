@@ -38,12 +38,12 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="55" height="40"/>
   </a>
 
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="70" height="40"/>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/>
   </a>
-
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="70" height="40"/>
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>
   </a>
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
