@@ -35,7 +35,7 @@
 
   <!-- Backend -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="60" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="50" height="40"/>
   </a>
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
