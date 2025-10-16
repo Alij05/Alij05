@@ -32,9 +32,6 @@
     <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="55" height="45" alt="Node.js"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -53,7 +50,7 @@
 
 <h3 align="left">📝 About Me:</h3>
 <p align="left">
-I’m a frontend developer passionate about building modern web apps with <b>React</b> and <b>Next.js</b>.  
+I’m a full-stack developer passionate about building modern web apps with <b>React</b> and <b>Next.js</b>.  
 I also create <b>Fullstack applications</b> using <b>Node.js</b>, <b>Express</b>, and databases like <b>MongoDB</b> & <b>MySQL</b>.  
 I build dynamic websites, dashboards, and e-commerce platforms, focusing on clean code and real-world projects.  
 Always open to <b>collaboration</b> and <b>interesting opportunities</b> 🚀
