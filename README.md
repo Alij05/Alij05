@@ -1,53 +1,58 @@
 <h1 align="center">Hi 👋, I'm Ali Jalilvand</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node Js**
 
 - 📫 How to reach me **ali.jalilvand2203@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ali-jalilvand-7a4b33326/" target="blank">
+  <a href="https://linkedin.com/in/ali-jalilvand-7a4b33326/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/ali_jalilvand_21" target="blank">
+  <a href="https://instagram.com/ali_jalilvand_21" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="TailwindCSS"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" alt="Express.js"/></a>
+</p>
+
+<h3 align="left">📈 GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-jalilvand&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-jalilvand&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<h3 align="left">📌 Pinned Projects:</h3>
+<p align="left">
+  <a href="https://github.com/ali-jalilvand/project1" target="_blank">
+    <img src="https://img.shields.io/badge/Project1-React-blue?style=for-the-badge" alt="Project1"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/>
+  <a href="https://github.com/ali-jalilvand/project2" target="_blank">
+    <img src="https://img.shields.io/badge/Project2-Next.js-green?style=for-the-badge" alt="Project2"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="TailwindCSS"/>
+  <a href="https://github.com/ali-jalilvand/project3" target="_blank">
+    <img src="https://img.shields.io/badge/Project3-Node.js-yellow?style=for-the-badge" alt="Project3"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
-  </a>
+</p>
+
+<h3 align="left">📝 About Me:</h3>
+<p align="left">
+I’m a passionate frontend developer who loves creating modern web apps using <b>React</b> and <b>Next.js</b>.  
+I enjoy learning new technologies, improving my coding skills, and building real-world projects.  
+Always open to <b>collaboration</b> and <b>interesting opportunities</b> 🚀
 </p>
