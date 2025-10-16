@@ -36,7 +36,7 @@
     <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/>
