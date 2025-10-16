@@ -11,43 +11,40 @@
 <a href="https://instagram.com/ali_jalilvand_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali-jalilvand-21" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">💻 Languages & Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<h3 align="left">Languages & Tools:</h3>
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/>
+    <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3"/>
+    <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="TailwindCSS"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="TailwindCSS"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/>
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
+    <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
+    <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" alt="Express.js"/>
+    <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
   </a>
 </p>
 
