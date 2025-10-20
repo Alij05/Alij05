@@ -31,13 +31,10 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
   </a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-    width="45" height="45" alt="Node.js"
-    style="background-color: #1E1E1E; border-radius: 8px; padding: 5px;"
-  />
-</a>
+  <br>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js"/>
   </a>
@@ -54,6 +51,7 @@
     <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
   </a>
 </p>
+
 
 <h3 align="left">📝 About Me:</h3>
 <p align="left">
