@@ -34,6 +34,9 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
   </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/>
   </a>
@@ -47,6 +50,7 @@
     <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
   </a>
 </p>
+
 
 <h3 align="left">📝 About Me:</h3>
 <p align="left">
