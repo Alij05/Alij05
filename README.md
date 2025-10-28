@@ -57,6 +57,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Git"/>
+  </a>
 </p>
 
 
